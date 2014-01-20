@@ -1,7 +1,7 @@
 mongoose-minid
 ================
 
-This plugin is a highly customised version of mongoose-shortid. The bignum dependency is removed and the generator is pure javascript now.
+This plugin is a highly customised version of mongoose-shortid, without bignum.
 
 You can get it via npm by typing:
 
