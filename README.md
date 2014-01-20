@@ -38,7 +38,3 @@ var personSchema = mongoose.Schema({
     name: String
 });
 ```
-
-### Custom ID Generation
-
-If you're interested in more customizable module checkout https://github.com/jjwchoy/mongoose-shortid
