@@ -15,7 +15,7 @@ This plugin will automatically retry inserts on a collision, up to a maximum of 
 
 ### What's the point?
 
-This module is going to make your ObjectId from something like 507f191e810c19729de860ea to just Ng3zf_
+This module is going to make your ObjectId from something like `507f191e810c19729de860ea` to just `Ng3zf_`
 
 ### Usage
 
