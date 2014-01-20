@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-minid",
+  "description": "ShortIt for mongoose in pure javascript.",
+  "author": {
+    "name": "Viktor Kirilov",
+    "email": "deepsybg@gmail.com"
+  },
+  "version": "1.1.0",
+  "main": "./index.js",
+  "directories": {
+    "lib": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepsyx/mongoose-minid"
+  },
+  "keywords": [
+    "mongoose",
+    "shortid"
+  ],
+  "peerDependencies": {
+    "mongoose": ">= 3.5.0 < 4"
+  },
+  "bugs": {
+    "url": "https://github.com/deepsyx/mongoose-minid/issues"
+  }
+}
