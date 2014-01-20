@@ -13,6 +13,10 @@ This plugin provides a new Schema Type, ShortId, that can be used in place of Ob
 
 This plugin will automatically retry inserts on a collision, up to a maximum of 5 retries.
 
+### What's the point?
+
+This module is going to make your ObjectId from something like 507f191e810c19729de860ea to just Ng3zf_
+
 ### Usage
 
 ```javascript
