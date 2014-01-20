@@ -17,7 +17,7 @@ This plugin will automatically retry inserts on a collision, up to a maximum of 
 
 ```javascript
 var mongoose = require('mongoose');
-var ShortId = require('mongoose-shortid');
+var ShortId = require('mongoose-minid');
 
 var personSchema = mongoose.Schema({
     _id: ShortId,
