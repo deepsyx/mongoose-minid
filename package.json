@@ -19,7 +19,7 @@
     "shortid"
   ],
   "peerDependencies": {
-    "mongoose": ">= 3.5.0 < 4"
+    "mongoose": "*"
   },
   "bugs": {
     "url": "https://github.com/deepsyx/mongoose-minid/issues"
