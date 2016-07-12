@@ -1,3 +1,5 @@
+THIS PACKAGE IS NO LONGER SUPPORTED AND WILL NOT BE UPDATED.
+
 mongoose-minid
 ================
 
